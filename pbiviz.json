@@ -3,7 +3,7 @@
     "name": "piechartBI",
     "displayName": "piechartBI",
     "guid": "piechartBI81B476038CBA4894B2E53B2B1F9A7F75",
-    "visualClassName": "Visual",
+    "visualClassName": "PieChartVisual",
     "version": "1.0.0.0",
     "description": "",
     "supportUrl": "",
